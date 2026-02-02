@@ -34,7 +34,7 @@
 		    <input type="password" class="form-control" id="exampleInputPassword1">
 		  </div>
 
-		  <div class="mb-4 float-end">Already have an account? <a href="http://localhost/cred/">Login Here</a></div>
+		  <div class="mb-4 float-end">Already have an account? Login Here <a href="http://localhost/cred/">Login Here</a></div>
 	
 		  <button type="submit" class="btn btn-primary mt-4">Submit</button>
 		</form>
